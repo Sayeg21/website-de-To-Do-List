@@ -3,10 +3,10 @@
 }
 
 body {
-    background-color: black;
+    background-color: white
 }
 
 main {
-    background-color: rgba(255, 255, 255, 0.897);
-    box-shadow: 15px 15px 20px;
+    background-color: black
+    box-shadow: 15px 15px 20px ;
 }
