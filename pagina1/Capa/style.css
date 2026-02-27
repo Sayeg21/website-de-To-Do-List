@@ -1,0 +1,12 @@
+* {
+    font-family: 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    background-color: rgba(255, 255, 255, 0.897);
+    box-shadow: 15px 15px 20px;
+}
